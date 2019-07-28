@@ -1,0 +1,29 @@
+腾讯课堂：
+https://ke.qq.com/course/420261
+
+优酷视频：
+https://i.youku.com/i/UNjM2ODc2NTI1Ng==/videos?spm=a2hzp.8244740.0.0
+
+01.Angular简介
+02.Angular特性
+03.Angular快速上手 先决条件
+04.Angular快速上手 安装 Angular CLI
+05.Angular快速上手 编辑你的第一个 Angular 组件
+06.Angular教程 简介
+07.Angular教程 应用的外壳
+08.Angular教程 英雄编辑器1
+09.Angular教程 英雄编辑器2
+10.Angular教程 显示英雄列表1
+11.Angular教程 显示英雄列表2
+12.Angular教程 显示英雄列表3
+13.Angular教程 主从组件
+14.Angular教程 服务1
+15.Angular教程 服务2
+16.Angular教程 服务3
+17.Angular教程 路由1
+18.Angular教程 路由2
+19.Angular教程 路由3
+20.Angular教程 HTTP1
+21.Angular教程 HTTP2
+22.Angular教程 HTTP3
+23.Angular相关资源
